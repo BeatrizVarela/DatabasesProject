@@ -4,12 +4,9 @@
 
 # INTRODUCTION
 
-**Final Project**
+**Final Project - Airline companies’ database**
 
-Airline companies’ database
-
-An airline company wants an information system to control the allocation of its
-personnel to planes and their flights.
+An airline company wants an information system to control the allocation of its personnel to planes and their flights.
 
 **Step 1 Goals**
 
@@ -24,6 +21,7 @@ personnel to planes and their flights.
    DML commands to insert sample data into all schema tables relational.
 
 **Step 2 Goals**
+
 Translate the following data requests into SQL/DML queries:
 
 1. Captains who performed flights to Paris between 10/31/2015 and 11/30/2015.
